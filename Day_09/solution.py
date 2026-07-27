@@ -1,13 +1,15 @@
 if __name__ == '__main__':
-    x = int(input())
-    y = int(input())
-    z = int(input())
-    n = int(input())
-    
-    result = [[i, j, k]
-          for i in range(x + 1)
-          for j in range(y + 1)
-          for k in range(z + 1)
-          if i + j + k != n]
+    students = []
 
-print(result)
+    for _ in range(int(input())):
+        name = input()
+        score = float(input())
+        students.append([name, score])
+
+    scores = sorted(set(student[1] for student in students))
+    second_lowest = scores[1]
+
+    names = sorted(student[0] for student in students if student[1] == second_lowest)
+
+    for name in names:
+        print(name)
