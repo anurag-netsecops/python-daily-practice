@@ -39,5 +39,6 @@ I am tracking my progress, daily learnings, and solutions right here.
 | **13** | What's Your Name? | [HackerRank](https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true) | [Day_13/solution.py](./Day_13/solution.py) | Practiced functions, function parameters, string formatting, and returning formatted strings. |
 | **14** | String Split and Join | [HackerRank](https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true) | [Day_14/solution.py](./Day_14/solution.py) | Learned how to split a string using `split()` and join elements using `join()` with a hyphen delimiter. |
 | **15** | Mutate a String | [HackerRank](https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true) | [Day_15/solution.py](./Day_15/solution.py) | Learned how to modify strings using slicing because Python strings are immutable. |
+| **16** | Find a String | [HackerRank](https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true) | [Day_16/solution.py](./Day_16/solution.py) | Learned to find substring occurrences using string slicing, `range()`, and overlapping substring matching. |
 
 *"Consistency beats intensity. One line of code at a time."*
