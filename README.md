@@ -40,5 +40,7 @@ I am tracking my progress, daily learnings, and solutions right here.
 | **14** | String Split and Join | [HackerRank](https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true) | [Day_14/solution.py](./Day_14/solution.py) | Learned how to split a string using `split()` and join elements using `join()` with a hyphen delimiter. |
 | **15** | Mutate a String | [HackerRank](https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true) | [Day_15/solution.py](./Day_15/solution.py) | Learned how to modify strings using slicing because Python strings are immutable. |
 | **16** | Find a String | [HackerRank](https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true) | [Day_16/solution.py](./Day_16/solution.py) | Learned to find substring occurrences using string slicing, `range()`, and overlapping substring matching. |
+| **17** | String Validators | [HackerRank](https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true) | [Day_17/solution.py](./Day_17/solution.py) | Learned to validate strings using `isalnum()`, `isalpha()`, `isdigit()`, `islower()`, and `isupper()`. |
+| **18** | sWAP cASE | [HackerRank](https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true) | [Day_18/solution.py](./Day_18/solution.py) | Learned to swap uppercase and lowercase characters using Python's `swapcase()` string method. |
 
 *"Consistency beats intensity. One line of code at a time."*
