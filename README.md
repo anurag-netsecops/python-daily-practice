@@ -43,5 +43,6 @@ I am tracking my progress, daily learnings, and solutions right here.
 | **17** | String Validators | [HackerRank](https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true) | [Day_17/solution.py](./Day_17/solution.py) | Learned to validate strings using `isalnum()`, `isalpha()`, `isdigit()`, `islower()`, and `isupper()`. |
 | **18** | sWAP cASE | [HackerRank](https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true) | [Day_18/solution.py](./Day_18/solution.py) | Learned to swap uppercase and lowercase characters using Python's `swapcase()` string method. |
 | **19** | Text Wrap | [HackerRank](https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true) | [Day_19/solution.py](./Day_19/solution.py) | Learned to use Python's `textwrap` module and `wrap()` function to split strings into fixed-width lines. |
+| **20** | Text Alignment | [HackerRank](https://www.hackerrank.com/challenges/text-alignment/problem) | [Day_20/text_alignment.py](./Day_20/text_alignment.py) | Learned string alignment using `ljust()`, `rjust()`, and `center()` for pattern printing. |
 
 *"Consistency beats intensity. One line of code at a time."*
